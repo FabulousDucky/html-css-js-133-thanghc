@@ -1,11 +1,25 @@
-.main-class{
-    background-color: rgb(30, 206, 89);
+.main-class {
+    font-style: initial;
+    font-size: 20px;
+    background-color: rgb(147, 150, 194);
 }
-.heading-profile{
-    background-color: black;
+
+li {
+    font-size: 18px;
 }
 
+img {
+    border-radius: 50%;
+    width: 220px;
+    height: 250px;
+    border-style: outset;
+}
 
+hr {
+    border: 5px green;
+    border-style: dotted;
+}
 
-
-
+a:hover {
+    background-color: rgb(193, 235, 27);
+}
