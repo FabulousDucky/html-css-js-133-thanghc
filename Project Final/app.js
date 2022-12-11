@@ -25,9 +25,5 @@ function showInfo() {
         })
 }
 
-// div.innerHTML = `
-//             <h1>${d[1].localized_name}</h1>
-//             <h2>${d[1].primary_attr}</h2>
-//             `;
-//             document.querySelector("body").appendChild(div);
+  
        
